@@ -3,4 +3,4 @@ function random_color() {
     return "this is a random hex color: " + color 
 }
 
-modual.exports = random_color
+module.exports = random_color
