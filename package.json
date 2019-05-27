@@ -1,0 +1,14 @@
+{
+  "name": "test-thingy47563",
+  "version": "1.2.0",
+  "description": "A test thing",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kobi lee",
+  "license": "ISC"
+}
