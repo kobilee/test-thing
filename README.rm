@@ -1,3 +1,4 @@
 ## usage 
-import random_color from test-thingy47563
+import random_color from 'test-thingy47563'
+
 < random_color />
